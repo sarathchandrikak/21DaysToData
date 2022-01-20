@@ -11,4 +11,4 @@ Day6 - Data Visualization\
 Day7 - How to make a good graph\
 Day8 - Data Exploratory Analysis\
 Day9 - Remaking Data Viz\
-Day10 - Tableau Dashboard\
+Day10 - Tableau Dashboard
