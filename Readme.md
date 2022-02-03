@@ -1,7 +1,5 @@
 # #21DaysToData
 
-Dataset: New York Crime city Data 
-
 Day 1: Intro / Logistics / Crime in The Data District 
 
 Day 2: Life Cycle of Data / Data Vocab 
@@ -45,3 +43,12 @@ Day 20: Putting it all together
 Day 21: Review / Quiz 
 
 BONUS Day 22: FINALE!
+
+# Dataset 
+
+[New York City Crime Data](https://github.com/sarathchandrikak/21DaysToData/blob/main/data_district_crime.csv.zip)
+
+# Dashboard
+
+[New York City Dashboard](https://public.tableau.com/app/profile/sarath.chandrika.k/viz/NYCCrimeReport_16427312179750/NYCCrime)
+
