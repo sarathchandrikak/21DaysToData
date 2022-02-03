@@ -1,4 +1,4 @@
-♦️ # #21DaysToData Learnings
+# ♦️ #21DaysToData Learnings
 
 1. Day 1 
 
