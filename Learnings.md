@@ -135,5 +135,5 @@
 
       * Wrap up and complete overview
       * Data Quiz
-      * Feeback
+      * Feedback
 
